@@ -104,6 +104,16 @@ header .right h1 {
 header .right form {
   width: 120%;
 }
+header .right form button {
+  width: 90%;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: rgb(35, 166, 240);
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
 header .right label {
   font-size: 14px;
   font-weight: 600;
